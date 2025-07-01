@@ -4,6 +4,18 @@ Event Hub is a modern web application that allows users to create, browse, and j
 
 ---
 
+## 📂 Live 
+  **Client:** [Visit the live site](https://event-hub-client-seven.vercel.app/)
+  
+  **Server:** [Visit the live site](https://event-hub-server-self.vercel.app/)
+
+
+
+
+
+
+
+
 ## 📂 Repositories
 
 - **Client:** [Event-Hub (React Client)](https://github.com/Tanim-Ahmmed/Event-Hub)  
